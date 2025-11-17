@@ -1,0 +1,33 @@
+# ------ Node / React / Next / Express ------
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+dist/
+build/
+
+# ------ Python (If backend uses Python) ------
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+
+# ------ Environment Variables ------
+.env
+*.env
+.env.*
+
+# ------ Jupyter (If using notebooks) ------
+.ipynb_checkpoints/
+
+# ------ IDE / Editor ------
+.vscode/
+.idea/
+
+# ------ OS ------
+.DS_Store
+Thumbs.db
+
+# ------ Logs ------
+*.log
